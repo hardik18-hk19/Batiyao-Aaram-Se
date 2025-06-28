@@ -20,7 +20,7 @@ app.use(
 );
 
 app.use("/api/auth", AuthRoutes);
-app.use("/api/message", MessageRoutes);
+app.use("/api/messages", MessageRoutes);
 
 const port = process.env.PORT;
 
