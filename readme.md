@@ -79,7 +79,7 @@ Before running this application, make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/hardik18-hk19/mern_chat_app.git
+git clone https://github.com/hardik18-hk19/Batiyao-Aaram-Se.git
 cd chat_app
 ```
 
@@ -308,7 +308,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, feel free to reach out:
 
 - **GitHub**: [@hardik18-hk19](https://github.com/hardik18-hk19)
-- **Repository**: [mern_chat_app](https://github.com/hardik18-hk19/mern_chat_app)
+- **Repository**: [Batiyao-Aaram-Se](https://github.com/hardik18-hk19/Batiyao-Aaram-Se)
 
 ---
 
